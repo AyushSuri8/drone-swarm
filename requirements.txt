@@ -1,0 +1,27 @@
+# Core
+numpy
+scipy
+matplotlib
+
+# PyTorch (already installed on your platform, but keep for reproducibility)
+torch
+torchvision
+torchaudio
+
+# Simulation
+pybullet
+gymnasium
+
+# Graph learning
+torch-geometric
+torch-scatter
+torch-sparse
+
+# Training & logging
+wandb
+tensorboard
+tqdm
+
+# Vision / IO
+opencv-python
+imageio
