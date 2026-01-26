@@ -54,7 +54,7 @@ If you use this code, please cite:
 ```bibtex
 @article{yourname2026swarm,
   title={Safety Under Saturation},
-  author={Your Name},
+  author={Ayush Suri},
   year={2026}
 }
 
